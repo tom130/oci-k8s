@@ -16,5 +16,5 @@ spec:
       name: sops-gpg
   postBuild:
     substitute:
-      grafana_domain: grafana.awesome.localhost
-      grafana_url: https://grafana.awesome.localhost/grafana
+      grafana_domain: grafana.krbec.dev
+      grafana_url: https://grafana.krbec.dev/grafana

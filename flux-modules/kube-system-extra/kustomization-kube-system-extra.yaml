@@ -18,4 +18,4 @@ spec:
       name: sops-gpg
   postBuild:
     substitute:
-      admin_email: "admin@email.com"
+      admin_email: "mail@krbec.dev"
